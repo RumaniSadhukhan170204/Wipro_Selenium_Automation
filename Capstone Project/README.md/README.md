@@ -1,7 +1,6 @@
 Selenium Python Automation Framework
 🎥 Demonstration Video
-
-Watch the Project Demonstration Video
+https://drive.google.com/file/d/1ylA3-biu0pCijhWB7P06m1PGxVEEQIZu/view?usp=sharing
 
 The demonstration video explains the project structure, framework components, Selenium execution, Login automation, Product Search for MacBook, and successful test execution.
 
