@@ -1,0 +1,14 @@
+[
+    {
+        "user_id": 2,
+        "expected_status": 200
+    },
+    {
+        "user_id": 3,
+        "expected_status": 200
+    },
+    {
+        "user_id": 4,
+        "expected_status": 200
+    }
+]
